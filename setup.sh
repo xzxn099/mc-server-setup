@@ -6,7 +6,7 @@ SERVER_DIR="/mc-server"
 
 sudo mkdir $SERVER_DIR
 
-cp ./server.properties $SERVER_DIR
+cp ./server/server.properties $SERVER_DIR
 cp ./start.sh $SERVER_DIR 
 
 cd $SERVER_DIR
