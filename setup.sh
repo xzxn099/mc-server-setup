@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SERVER_DIR="./resources"
+SERVER_DIR="./dist"
 
 PROPERTIES_FILE="./server/server.properties"
 
